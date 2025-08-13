@@ -263,14 +263,17 @@ nav a:hover {
 
 
 .contact-card h1{
-    color: black;
+    color: white;
     font-size: 1.5rem;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
 }
 
+.contact-card h2{
+    color: white;
+}
 
 .contact-card p ,a{
-    color: black;
+    color: white;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
     transition: all 0.3s ease;
 }
