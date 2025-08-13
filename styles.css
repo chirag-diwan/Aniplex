@@ -357,5 +357,18 @@ footer {
     nav a {
         font-size: 1rem;
     }
+    .search-bar-container {
+        width: 65%;
+        height: 40px;
+        padding: 0 0.7rem;
+    }
+
+    .search-bar-container input {
+        font-size: 0.9rem;
+    }
+
+    .search-bar-container img {
+        max-width: 8%;
+    }
 }
 
